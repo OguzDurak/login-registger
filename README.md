@@ -1,1 +1,8 @@
-3^33 #332[1;7t[1;7r[1;7r[1;7r[B[B[B[B[B[B[B[B[B[B[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D
+```sh
+
+step 1 - git init
+step 2 - git add
+step 3 git commit
+step 4 - git remote
+
+```
